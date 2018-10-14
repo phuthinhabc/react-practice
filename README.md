@@ -31,3 +31,5 @@ or
 ```bash
   $ yarn start
 ```
+# Ideas and Design
+[CREATE TIM](https://demos.creative-tim.com/material-dashboard-react/?_ga=2.158722367.448240597.1539533918-1274819528.1538967510#/dashboard)
